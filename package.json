@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "expressTest",
   "version": "1.0.0",
   "description": "express practice",
   "main": "index.js",
@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "body-parser": "*",
-    "express": "*",
-    "nodemon": "*",
-    "mongoose": "*"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2",
+    "nodemon": "^1.18.11",
+    "npm-check-updates": "^3.1.8"
   },
   "author": "ryan",
   "license": "ISC"
